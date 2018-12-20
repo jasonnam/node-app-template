@@ -1,0 +1,9 @@
+{
+  "description": "Node.js App Template",
+  "variables": [
+    {
+      "name": "ProjectName",
+      "displayName": "Project Name"
+    }
+  ]
+}
